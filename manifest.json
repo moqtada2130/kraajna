@@ -1,19 +1,19 @@
 {
-  "name": "Kraajna Garage App",
-  "short_name": "Kraajna",
+  "name": "كراجنا",
+  "short_name": "كراج",
   "start_url": "./index.html",
   "display": "standalone",
   "background_color": "#ffffff",
-  "theme_color": "#28a745",
-  "orientation": "portrait",
+  "theme_color": "#1e1e1e",
+  "description": "تطبيق لإدارة كراج السيارات وتسجيل المركبات المستلمة.",
   "icons": [
     {
-      "src": "icons/icon-192.png",
+      "src": "icon-192.png",
       "sizes": "192x192",
       "type": "image/png"
     },
     {
-      "src": "icons/icon-512.png",
+      "src": "icon-512.png",
       "sizes": "512x512",
       "type": "image/png"
     }
